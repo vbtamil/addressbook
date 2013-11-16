@@ -4,7 +4,7 @@
 //support for postgres 8.3
 //header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
 //header("Expires: Sat, 26 Jul 2012 05:00:00 GMT"); // Date in the past
-//Author:Madhavan
+//Author:vbtamil@yahoo.com
 //Date:7-Sep-2013
 // debug_print_backtrace(); //to get the stack trace
 ini_set('display_errors',1); 
