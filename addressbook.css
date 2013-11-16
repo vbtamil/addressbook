@@ -1,0 +1,178 @@
+/* CSS generated at csscreator.com */
+BODY{
+/*background-color:#000000; */
+color:#000000;
+font-family:
+sans-serif; 
+font-size:small; 
+font-weight:normal; 
+}
+img{
+/*background-color:#00FF00;*/
+border-color:grey; 
+color:#000000;
+font-family:sans-serif; 
+font-size:small; 
+font-weight:normal; 
+}
+address{
+color:#1b1b1b; 
+font-size:8px; 
+font-family:Sans-serif; 
+font-weight:normal; 
+text-decoration:none; 
+text-align:center;
+}
+A{
+color:#0000FF; 
+/*background-color:#FFFFFF; */
+font-size:10px; 
+font-family:Sans-serif; 
+font-weight:bold; 
+text-decoration:none; 
+}
+
+P{
+color:#0000AA; 
+font-size:9px; 
+font-family:courier; 
+font-weight:normal; 
+text-decoration:none; 
+}
+PRE{ font-size:small; 
+font-family:sans-serif; 
+font-weight:normal; 
+text-decoration:none; 
+}
+DIV{ 
+border-color:#FFFFFF; 
+border-style:solid; 
+border-width:thin; 
+}
+#container {
+  background: url("boy.jpg") repeat-y scroll 0 0 transparent;
+  border: 0px solid #484848;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  width: 1000px;
+}
+
+SPAN{ 
+border-color:blue; 
+color:blue; 
+font-size:8px;
+border-style:none; border-width:thin; 
+}
+H1{
+color:#0000A0; 
+background-color:#FFFFFFF; 
+font-size:small; font-family:sans-serif; font-weight:bold; text-decoration:none; }
+INPUT{
+font-family:sans-serif; 
+font-size:small; 
+/*border-style:none; */
+color:#000000;
+/*background-color:white; 
+border-color:#000000; */
+border-width:thin; 
+}
+TEXTAREA{
+font-family:sans-serif; 
+font-size:small; 
+/*border-style:soild; 
+border-width:thin; 
+border-color:#000000; */
+background-color:white; 
+}
+
+SELECT{
+font-family:sans-serif; 
+font-size:small; 
+border-style:solid; 
+border-width:thin; 
+border-color:black; 
+background-color:white; 
+}
+OPTION{font-family:sans-serif; font-size:small; border-style:solid; border-width:thin; }
+
+.menuPanel {
+background-color:white;
+color:magenta;
+position:absolute;
+top:75px;
+left:107px;
+height:23px;
+width=690;
+}
+
+.leftPanel {
+background-color:white	;
+border-color:none;
+color:#000000; 
+position:absolute;
+top:100px;
+left:1px;
+height:300px;
+width=110;
+}
+
+.middlePanel {
+color:#000000;
+background-color:#FFFFFF;
+position:absolute;
+top:100px;
+left:100px;
+width=400px;
+height:300px;
+right:1px;
+}
+
+.footerPanel {
+top:401px;
+right:3;
+background-color:#FFFFFF;
+position:absolute;
+left:1px;
+width:800px;
+height:50px;
+}
+
+.headerPanel {
+color:red;
+top:10px;
+background-color:#FFFFFF;
+position:absolute;
+left:105px;
+width:690px;
+height:60px;
+}
+
+.logoPanel {
+top:10px;
+/*background-color:#00FF00;*/
+position:absolute;
+left:1px;
+width:100px;
+height:60px;
+}
+.errorPanel {
+top:375px;
+color:red;
+position:absolute;
+left:100px;
+width:800px;
+height:25px;
+}
+
+.rightPanel {
+background-color:#FFFFFF;
+color:#000000;
+position:absolute;
+top:100px;
+left:400px;
+width=700px;
+height:300px;
+}
+
+
