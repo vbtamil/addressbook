@@ -424,14 +424,9 @@ if (isset($_POST['submit'])) {
 <?php include_once("analyticstracking.php") ?>
 <div  class="headerPanel" >
 <address align=center>
-Madhavan V.B
-19/10 Muthiah 2nd street
-Royapettah
-Phone:91-44-28476860
-Phone:91-9952969398
 </address>
 <address align=center>
-Email:vbmadhavan@gmail.com
+   Email:vbtamil@yahoo.com
 </address>
 <h1 align=center><?php echo $heading;?></h1>
 </div>
@@ -447,19 +442,14 @@ Email:vbmadhavan@gmail.com
 <div  class="leftPanel">
 <br/>
 <br/>
-<!--a href="http://localhost:8080/address_book/main/index.php">Financial Accounting</a><br/>
-<a href="http://localhost:8080/address_book/main/index.php">Payroll</a><br/>
-<a href="http://localhost:8080/address_book/main/index.php">Inventory</a><br/-->
 </div>
 
 <div class=menuPanel>
 <p>
-<!--a href="http://localhost:8080/" >Home&nbsp;</a-->
 <!--a href="http://localhost:8080/address_book/main/index.php" >Contact&nbsp;</a-->
 <a href="http://localhost:8080/index.php">Back</a>
 </p>
 </div>
-
 
 <form   name="addressbook"  method="POST" action = "<?php  basename(__FILE__); ?>">
 <div class=middlePanel>
